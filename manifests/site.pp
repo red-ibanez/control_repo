@@ -1,4 +1,4 @@
-node deault {
+node default {
   file { '/root/README':
     ensure => file,
    }
